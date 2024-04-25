@@ -1,3 +1,16 @@
+#local paths
+images
+models
+models - results
+runs
+runs - results
+
+#local files
+metrics.csv
+metrics - Copia.csv
+Resultados-CodigoArtigoMestrado.zip
+testesdataloader.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

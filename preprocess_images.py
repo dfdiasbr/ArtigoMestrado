@@ -28,7 +28,7 @@ def center_crop(img, dim):
 #dimensions below this values
 dim = (400,400)
 #path to the source dataset
-source_dataset = "./images/images-datasetJoaoVictor"
+source_dataset = "./images/images-datasetgeral"
 
 #paths to the destination dataset, with the pre-processed images
 #image_path_train = "./images/train"

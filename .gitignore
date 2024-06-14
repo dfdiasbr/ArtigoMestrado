@@ -1,13 +1,11 @@
 #local paths
 images
-models
-models - results*
-runs
-runs - results*
+models*
+runs*
 
 #local files
-metrics*.csv
-Resultados-CodigoArtigoMestrado.zip
+*.csv
+Resultados*.zip
 testesdataloader.py
 test.py
 

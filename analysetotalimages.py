@@ -11,9 +11,9 @@ def contar_imagens(diretorio):
         imagens_por_subdiretorio[root] = total_imagens
     return imagens_por_subdiretorio
 
-diretorios = ['./images/images-datasetDouglascompleto/train', 
-              './images/images-datasetDouglascompleto/val', 
-              './images/images-datasetDouglascompleto/test']
+diretorios = ['./images/images-datasetgeral400x400/train', 
+              './images/images-datasetgeral400x400/val', 
+              './images/images-datasetgeral400x400/test']
 
 data = []
 for diretorio in diretorios:

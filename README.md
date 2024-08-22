@@ -26,4 +26,4 @@ This project envolved the creation of a database of Ornamental Rocks, with suppo
 
 with each of them containing the same classes directories. To run the program correctly, it's necessary an "image" directory in the root directory of the code, with the tree directories.
 
-The database created by the author for this project can be accessed in https://www.kaggle.com/databases/douglasfiriodias/ornamental-rocks-database.
+The database created by the author for this project can be accessed in [My project in Kaggle](https://www.kaggle.com/datasets/douglasfiriodias/ornamental-rocks-dataset).
